@@ -1,0 +1,2 @@
+$ export GOPATH=$HOME/go
+$ go get -v github.com/spf13/hugo
